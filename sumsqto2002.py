@@ -1,4 +1,4 @@
-# problem is whats the maximum x for which x^2 + (x+1)^2+...+ (x+n)2 can equal 2002;
+#  is there an x for which x^2 + (x+1)^2+...+ (x+n)2 can equal 2002;
 # 
 import math
 print( 'start')
